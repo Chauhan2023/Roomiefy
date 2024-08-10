@@ -60,7 +60,7 @@ function Footer() {
                 </h6>
                 <ul className="sub-menu__list list-unstyled">
                   {[
-                    { text: 'New Arrival', link: '/lookbook' },
+                    { text: 'New Arrival', link: '/lookbooks' },
                     { text: 'Most Selling', link: '/account_detail' },
                     { text: 'Video Invitation', link: '/store_location' },
                     { text: 'Card Invitation', link: '/contact' },
