@@ -101,7 +101,7 @@ function Footer() {
                 </h6>
                 <ul className="sub-menu__list list-unstyled">
                   {[
-                    { text: 'My Account', link: '/account_detail' },
+                    { text: 'My Account', link: '/account' },
                     { text: 'My Order', link: '/orders' },
                     { text: 'My Wishlist', link: '/store_location' },
                     { text: 'Gift Cards', link: '/contact' },
